@@ -16,7 +16,10 @@ I want to sell this glass.
 
 ![](img/glass.PNG)
 ![nexmaker](www.nexmaker.com)
-![facbook](www.facebook.com)
+![facebook][def]
 
 here is just a text.
 ### There have a lots of changese which is we need to change here
+
+
+[def]: www.facebook.com
