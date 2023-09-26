@@ -15,7 +15,7 @@ there have lot's of things which is i need to add it here.
 I want to sell this glass.
 
 ![](img/glass.PNG)
-[nexmaker](www.nexmaker.com)
+[nexmaker](https://www.nexmaker.com)
 [facebook](www.facebook.com)
 
 here is just a text.
