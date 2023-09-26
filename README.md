@@ -15,7 +15,7 @@ there have lot's of things which is i need to add it here.
 I want to sell this glass.
 
 ![](img/glass.PNG)
-![nexmaker](www.nexmaker.com)
+![nexmaker][def2]
 ![facebook][def]
 
 here is just a text.
@@ -23,3 +23,4 @@ here is just a text.
 
 
 [def]: www.facebook.com
+[def2]: www.nexmaker.com
