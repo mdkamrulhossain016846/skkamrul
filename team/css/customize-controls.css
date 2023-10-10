@@ -1,0 +1,9 @@
+li#accordion-section-upgrade_premium .accordion-section-title, li#accordion-section-upgrade_premium .accordion-section-title:hover{
+  margin: 15px !important;
+  padding: 10px 12px !important;
+}
+#customize-controls .upgrade-to-pro{
+  background: #1e29ed;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(right, #1e29ed , #5b97ff );  /* Chrome 10-25, Safari 5.1-6 */
+  background-image: linear-gradient(to right, #1e29ed , #5b97ff ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
